@@ -2,6 +2,7 @@
 
 This project will be public as a public paper soon. So, the full detail and result cannot be public now.
 
+FYI: K-fold and tuning model process files are not put in this repo.
 
 **Topic:** Transfer Learning for Classifying Motor Imagery
 EEG: A Comparative Study
